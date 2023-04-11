@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMARJANE Elmahdi</h1>
 <h3 align="center">From Morocco</h3>
-<img align="center" alt="Coding" width="70%" height="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/02/web-development.gif">
+<img align="center" alt="Coding" width="700"  src="https://devtechnosys.com/insights/wp-content/uploads/2021/02/web-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmahdiamarjane&label=Profile%20views&color=0e75b6&style=flat" alt="elmahdiamarjane" /> </p>
 
 
