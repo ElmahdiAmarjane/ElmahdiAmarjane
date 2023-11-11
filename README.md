@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
